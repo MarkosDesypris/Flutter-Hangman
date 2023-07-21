@@ -1,16 +1,12 @@
-# hangman_app
+# Hangman Game
 
-A new Flutter project.
+A simple Hangman Game using Flutter
 
-## Getting Started
+## Screenshots
+### Home Page
+<img src="https://github.com/MarkosDesypris/Flutter-Hangman/assets/46244014/704afcb1-6c58-45c1-b841-22961d7f9c40" width="400" height="900">
 
-This project is a starting point for a Flutter application.
+### Gameplay 
+<img src="https://github.com/MarkosDesypris/Flutter-Hangman/assets/46244014/c35fd88e-aef2-4f08-a2ad-f2cee7c6a30b" width="400" height="900">
+<img src="https://github.com/MarkosDesypris/Flutter-Hangman/assets/46244014/9f4c771d-616e-4779-9654-29e6d0a444a4" width="400" height="900">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
